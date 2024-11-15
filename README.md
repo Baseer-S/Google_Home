@@ -2,6 +2,7 @@
 My Search Engine Project
 
  A simple and modern search engine interface built with HTML, CSS, and JavaScript.
+
 🌟 Features
 
   Dark mode toggle for better user experience.
