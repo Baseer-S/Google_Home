@@ -2,6 +2,7 @@
 My Search Engine Project
 
  A simple and modern search engine interface built with HTML, CSS, and JavaScript.
+ 
 
 🌟 Features
 
@@ -12,6 +13,7 @@ My Search Engine Project
   Responsive design for desktop and mobile devices.
   
   Easy-to-use and clean interface.
+  
 
 ⚡ Technology Stack
 
@@ -21,11 +23,13 @@ My Search Engine Project
    
    Hosting: GitHub Pages
    
+   
   🛠️ Setup Instructions
 
   Make sure to update the links for your search buttons and any other external resources.
   
   Add your logo by replacing path/to/your/logo.png.
+  
 
  📜 License
 
